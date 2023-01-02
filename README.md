@@ -3,7 +3,7 @@ A collection of tattoos made on "Kassandra's Enhanced Muscles 100%" (include sca
 
 ______________________
 
-*REQUIREMENTS**
+**REQUIREMENTS**
 - Forger 2.10 Utility by hypermorphic >> https://www.nexusmods.com/assassinscreedodyssey/mods/42
 - KassandraTattooCollection3 folder
 - KassandraTattooCollection3-v7.forger2
