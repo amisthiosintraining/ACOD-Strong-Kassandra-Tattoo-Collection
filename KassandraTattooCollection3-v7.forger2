@@ -1,0 +1,401 @@
+{
+	"Format": "ForgerPatch2",
+	"GameEXE": "ACOdyssey",
+	"CollectionTitle": "Kassandra Tattoo Collection 3.0 (Nude)",
+	"CollectionVersion": 7,
+	"CollectionID": "KTC3_ilikedetectives_skylightglare",
+	"Patches":
+	[
+		{
+			"PatchTitle": "Herakles",
+			"PatchDescription": "Applies Herakles tattoo on 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Herakles_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Herakles\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Herakles\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Herakles\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Herakles\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Herakles\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Herakles\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Herakles\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Herakles\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Herakles\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Herakles\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Herakles Dragon Tattoo only",
+			"PatchDescription": "Applies Herakles Dragon tattoo on 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Herakles_Dragon_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Herakles Dragon on back",
+			"PatchDescription": "Applies Herakles Dragon tattoo on 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Herakles_Dragon_Back_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\HeraklesDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Asian Dragon on back",
+			"PatchDescription": "Applies Asian Dragon tattoo on 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Dragon_Back_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\AsianDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\AsianDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\AsianDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\AsianDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\AsianDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\AsianDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\AsianDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\AsianDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\AsianDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\AsianDragonBack\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Tiger and Dragon on shoulders",
+			"PatchDescription": "Applies Tiger and Dragon tattoo on 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Tiger_Dragon_NormalMap",
+			"PatchVersion": 2,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\TigerDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\TigerDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\TigerDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\TigerDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\TigerDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\TigerDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\TigerDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\TigerDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\TigerDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\TigerDragon\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Phoenix",
+			"PatchDescription": "Applies Phoenix back tattoo on 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Phoenix_NormalMap",
+			"PatchVersion": 2,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Phoenix\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Phoenix\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Phoenix\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Phoenix\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Phoenix\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Phoenix\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Phoenix\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Phoenix\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Phoenix\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\Phoenix\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Japanese Yin Yang Koi Fish",
+			"PatchDescription": "Applies Japanese Yin Yang Koi Fish tattoos on 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Japanese_YinYangFish_NormalMap",
+			"PatchVersion": 2,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JapaneseYinYangFish\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JapaneseYinYangFish\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JapaneseYinYangFish\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JapaneseYinYangFish\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JapaneseYinYangFish\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JapaneseYinYangFish\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JapaneseYinYangFish\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JapaneseYinYangFish\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JapaneseYinYangFish\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JapaneseYinYangFish\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Inca Bird",
+			"PatchDescription": "Applies Inca Bird tattoos on 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Inca_Bird_2_NormalMap",
+			"PatchVersion": 2,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\IncaBird2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\IncaBird2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\IncaBird2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\IncaBird2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\IncaBird2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\IncaBird2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\IncaBird2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\IncaBird2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\IncaBird2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\IncaBird2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Jumping Tiger",
+			"PatchDescription": "Applies Jumping Tiger on back of 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Jumping_Tiger_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JumpingTiger\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JumpingTiger\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JumpingTiger\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JumpingTiger\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JumpingTiger\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JumpingTiger\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JumpingTiger\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JumpingTiger\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JumpingTiger\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\JumpingTiger\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Vine Trail I",
+			"PatchDescription": "Applies Vine Trail I on 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Vine_Trail_1_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail1\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail1\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail1\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail1\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail1\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail1\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail1\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail1\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail1\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail1\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Vine Trail II",
+			"PatchDescription": "Applies Vine Trail II on 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Vine_Trail_2_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\VineTrail2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Insect Spire",
+			"PatchDescription": "Applies Insect Spire on back of 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Insect_Spire_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\InsectSpire\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\InsectSpire\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\InsectSpire\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\InsectSpire\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\InsectSpire\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\InsectSpire\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\InsectSpire\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\InsectSpire\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\InsectSpire\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\InsectSpire\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Dragon Ink I",
+			"PatchDescription": "Applies Dragon Ink on back of 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Dragon_Ink_NormalMap",
+			"PatchVersion": 2,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Dragon Ink II",
+			"PatchDescription": "Applies Dragon Ink on back of 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_Dragon_Ink_2_NormalMap",
+			"PatchVersion": 2,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\DragonInk2\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+			]
+		},
+		{
+            "PatchTitle": "Fish Ambigram, Ouroboros Pseudo, Impure Ember",
+			"PatchDescription": "Applies Fish on back, Pseudo on front, Ember on arms of 100% Muscle Nude Body",
+			"PatchID": "ACD_CHR_P_Kassandra_Body_EMD_FishOuroborosSketch_NormalMap",
+			"PatchVersion": 1,
+			"Targets":
+			[
+				// 519028747704 ACD_CHR_P_Kassandra_Body_NormalMap
+				/************************************
+				 * Dimentions : 2048x2048
+				 * Compression : BC7(DX10)
+				 * Mipmaps
+				 * Size : 4,194,452 bytes (~4097 KB)
+				 ************************************/
+				{"File": "dlc_15/DataPC_ACD_Greece_15_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\FishOuroboros\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_32/DataPC_ACD_Elysium.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\FishOuroboros\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_33/DataPC_ACD_Underworld.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\FishOuroboros\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_34/DataPC_ACD_Atlantis.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\FishOuroboros\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_36/DataPC_36_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\FishOuroboros\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_43/DataPC_43_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\FishOuroboros\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_50_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\FishOuroboros\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_50/DataPC_ACD_ThroneRoom.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\FishOuroboros\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+				{"File": "dlc_58/DataPC_58_dlc.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\FishOuroboros\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},	
+				{"File": "dlc_58/DataPC_ACD_Connection.forge", 	"Required": false, "FileID": 519028747704, "Edits": [{"OffsetHex": "E2", "DataFileOffsetHex": "94", "DataFile": "KassandraTattooCollection3\\FishOuroboros\\Kassandra_Body_100_Tattoo_NormalMap.dds"}]},
+							
+			]
+		}
+	]
+}				
