@@ -9,10 +9,11 @@ ______________________
 - KassandraTattooCollection3-v7.forger2
 
 **STEPS**
-1) Unzip `Kassandra Tattoo Collection 3.0-v7.7z` to reveal `KassandraTattooCollection3` folder and `KassandraTattooCollection3-v7.forger2` file
-2) Copy and paste the contents `KassandraTattooCollection3` folder and `KassandraTattooCollection3-v7.forger2` into "ForgerPatches" folder where ACOdyssey.exe is.
-3) Return to Forger Utility and click "Rescan",  and the mod should appear under "Kassandra Tattoo Collection 3.0 (Nude)" in yellow.
-4) Select ONE option only, close forger, and boot up the game.
+1) Go to "code" and "download zip"
+2) Unzip the file to reveal `KassandraTattooCollection3` folder and `KassandraTattooCollection3-v7.forger2` file
+3) Copy and paste the contents `KassandraTattooCollection3` folder and `KassandraTattooCollection3-v7.forger2` into "ForgerPatches" folder where ACOdyssey.exe is.
+4) Return to Forger Utility and click "Rescan",  and the mod should appear under "Kassandra Tattoo Collection 3.0 (Nude)" in yellow.
+5) Select ONE option only, close forger, and boot up the game.
 
 **TROUBLESHOOTING**
 Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files. You may have to do this more than once.
