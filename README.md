@@ -1,4 +1,4 @@
-# Kassandra-Tattoo-Collection-3
+# Kassandra-Tattoo-Collection-3-(Nude)
 A collection of tattoos made on "Kassandra's Enhanced Muscles 100%" (include scars)
 
 ______________________
