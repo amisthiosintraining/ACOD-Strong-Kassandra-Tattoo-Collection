@@ -3,6 +3,7 @@ A collection of tattoos made on "Kassandra's Enhanced Muscles 100%" (include sca
 
 ______________________
 
+
 **REQUIREMENTS**
 - Forger 2.10 Utility by hypermorphic >> https://www.nexusmods.com/assassinscreedodyssey/mods/42
 - KassandraTattooCollection3 folder
@@ -16,6 +17,7 @@ ______________________
 5) Select ONE option only, close forger, and boot up the game.
 
 **TROUBLESHOOTING**
+
 Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files. You may have to do this more than once.
 
 **UBISOFT CONNECT**
