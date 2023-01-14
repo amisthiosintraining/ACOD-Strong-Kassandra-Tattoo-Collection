@@ -1,19 +1,21 @@
-# Kassandra-Tattoo-Collection-3-(Nude)
+# ACOD | Strong Kassandra Tattoo Collection
+
 A collection of tattoos made on "Kassandra's Enhanced Muscles 100%" (include scars)
+
+<img src="https://imgur.com/nUXX1t8.png">
 
 ______________________
 
-
 **REQUIREMENTS**
-- Forger 2.10 Utility by hypermorphic >> https://www.nexusmods.com/assassinscreedodyssey/mods/42
-- KassandraTattooCollection3 folder
-- KassandraTattooCollection3-v7.forger2
+- <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/42">Forger 2.10 Utility</a> by hypermorphic
+- StrongKassTattCollection folder
+- Strong_Kassandra_Tattoo_Collection_v8.forger2
 
 **STEPS**
 1) Go to "code" and "download zip"
-2) Unzip the file to reveal `KassandraTattooCollection3` folder and `KassandraTattooCollection3-v7.forger2` file
-3) Copy and paste the contents `KassandraTattooCollection3` folder and `KassandraTattooCollection3-v7.forger2` into "ForgerPatches" folder where ACOdyssey.exe is.
-4) Return to Forger Utility and click "Rescan",  and the mod should appear under "Kassandra Tattoo Collection 3.0 (Nude)" in yellow.
+2) Unzip the file to reveal `StrongKassTattCollection` folder and `Strong_Kassandra_Tattoo_Collection_v8.forger2` file
+3) Copy and paste the contents `StrongKassTattCollection` folder and `Strong_Kassandra_Tattoo_Collection_v8.forger2` into "ForgerPatches" folder where ACOdyssey.exe is.
+4) Return to Forger Utility and click "Rescan",  and the mod should appear under "Strong Kassandra Tattoo Collection (Nude)" in yellow.
 5) Select ONE option only, close forger, and boot up the game.
 
 **TROUBLESHOOTING**
