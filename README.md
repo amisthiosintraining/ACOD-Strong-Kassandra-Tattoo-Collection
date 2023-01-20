@@ -1,4 +1,4 @@
-# ACOD | Strong Kassandra Tattoo Collection
+# ACOD | 🔞 | Strong Kassandra Tattoo Collection
 A collection of tattoos made on "Kassandra's Enhanced Muscles 100%" (include scars)
 
 <b><i>Warning: nude texture.</i></b>
