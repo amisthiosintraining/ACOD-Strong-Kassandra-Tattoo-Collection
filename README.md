@@ -11,17 +11,18 @@ ______________________
 - <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/42">Forger 2.10 Utility</a> by hypermorphic
 - StrongKassTattCollection folder
 - Strong_Kassandra_Tattoo_Collection_v8.forger2
+- NudeLayer
+- Nude_Layer-v1.forger2
 
 **STEPS**
 1) Go to "code" and "download zip"
-2) Unzip the file to reveal `StrongKassTattCollection` folder and `Strong_Kassandra_Tattoo_Collection_v8.forger2` file
-3) Copy and paste the contents `StrongKassTattCollection` folder and `Strong_Kassandra_Tattoo_Collection_v8.forger2` into "ForgerPatches" folder where ACOdyssey.exe is.
-4) Return to Forger Utility and click "Rescan",  and the mod should appear under "Strong Kassandra Tattoo Collection (Nude)" in yellow.
-5) Select ONE option only, close forger, and boot up the game.
+2) Unzip the file to reveal `StrongKassTattCollection` folder and `Strong_Kassandra_Tattoo_Collection_v8.forger2` file and `NudeLayer` folder and `Nude_Layer-v1.forger2` file
+3) Copy and paste the four items `StrongKassTattCollection` folder, `Strong_Kassandra_Tattoo_Collection_v8.forger2`, `NudeLayer` folder and `Nude_Layer-v1.forger2` into "ForgerPatches" folder where ACOdyssey.exe is.
+4) Return to Forger Utility and click "Rescan", and the mod should appear under "Strong Kassandra Tattoo Collection (Nude)" and "Nude Layer"
+5) Select ONE option of the **Strong Kassandra Tattoo Collection (Nude)** and after check the only option under **Nude Layer.** After that you're set. Boot the game and enjoy.
 
 **TROUBLESHOOTING**
-
-Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files. You may have to do this more than once.
+<br>Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files. You may have to do this more than once.
 
 **UBISOFT CONNECT**
 1) Go to "Games"
