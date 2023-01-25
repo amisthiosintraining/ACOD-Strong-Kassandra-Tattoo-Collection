@@ -14,6 +14,9 @@ ______________________
 - NudeLayer
 - Nude_Layer-v1.forger2
 
+**HIGHLY RECOMMENDED**
+- <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/85">Outfit Customizer</a> by hypermorphic
+
 **STEPS**
 1) Go to "code" and "download zip"
 2) Unzip the file to reveal `StrongKassTattCollection` folder and `Strong_Kassandra_Tattoo_Collection_v8.forger2` file and `NudeLayer` folder and `Nude_Layer-v1.forger2` file
