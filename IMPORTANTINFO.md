@@ -1,24 +1,23 @@
-# Strong Kassandra Tattoo Collection
-###### Important Information, please read
+## Important Information
+**Strong Kassandra Tattoo Collection**
 
-For content creators, should you use these re-textures in your own work please credit the artists and designers. Information below.
+For content creators, should you use these re-textures in your own work please credit the artists and designers involved. We provided the necessary information below. Thank you!
 
 ------
 
 **Artwork Credits**
-
-1. "Herakles" by Ubisoft Quebec
-2. "Herakles Dragon Tattoo only" by Ubisoft Quebec
-3. "Herakles Dragon on back" by Ubisoft Quebec
-4. "Asian Dragon on back" from [Public Domain Vectors] (http://publicdomainvectors.org) as "Japanese dragon"
-5. "Tiger and Dragon on shoulders" from [Public Domain Vectors] (http://publicdomainvectors.org) as "Tiger running" and "Japanese dragon"
-6. "Phoenix" by andipermana1992 at [vecteezy.com] (http://vecteezy.com)
-7. "Japanese Yin Yang Koi Fish" by style graphic at [vecteezy.com] (http://vecteezy.com)
-8. "Inca Bird" by A Misthios In Training
-9. "Jumping Tiger" from [Public Domain Vectors] (http://publicdomainvectors.org) as "Tiger running"
-10. "Vine Trail I" by [A Misthios In Training] (http://amisthiosintraining.com)
-11. "Vine Trail II" by [A Misthios In Training] (http://amisthiosintraining.com)
-12. "Insect Spire" by [A Misthios In Training] (http://amisthiosintraining.com)
-13. "Dragon Ink I" by [A Misthios In Training] (http://amisthiosintraining.com)
-14. "Dragon Ink II" by [A Misthios In Training] (http://amisthiosintraining.com)
-15. "Fish Ambigram, Ouroboros Pseudo, Impure Ember": "Fish Ambigram" by style graphic at [vecteezy.com] (http://vecteezy.com), "Ouroboros Pseudo" from [Free SVG] (http://freesvg.org), "Impure Ember" by [A Misthios In Training] (http://amisthiosintraining.com)
+1. "Herakles" by <a href="http://ubisoft.com">Ubisoft Quebec</a>
+2. "Herakles Dragon Tattoo only" by <a href="http://ubisoft.com">Ubisoft Quebec</a>
+3. "Herakles Dragon on back" by <a href="http://ubisoft.com">Ubisoft Quebec</a>
+4. "Asian Dragon on back" from <a href="http://publicdomainvectors.org">Public Domain Vectors</a> as "Japanese dragon"
+5. "Tiger and Dragon on shoulders" from <a href="http://publicdomainvectors.org">Public Domain Vectors</a> as "Tiger running" and "Japanese dragon"
+6. "Phoenix" by andipermana1992 at <a href="http://vecteezy.com">vecteezy.com</a>
+7. "Japanese Yin Yang Koi Fish" by style graphic at <a href="http://vecteezy.com">vecteezy.com</a>
+8. "Inca Bird" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+9. "Jumping Tiger" from <a href="http://publicdomainvectors.org">Public Domain Vectors</a> as "Tiger running"
+10. "Vine Trail I" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+11. "Vine Trail II" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+12. "Insect Spire" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+13. "Dragon Ink I" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+14. "Dragon Ink II" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+15. "Fish Ambigram, Ouroboros Pseudo, Impure Ember": "Fish Ambigram" by style graphic at <a href="http://vecteezy.com">vecteezy.com</a>, "Ouroboros Pseudo" from <a href="http://freesvg.org">Free SVG</a>, "Impure Ember" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
