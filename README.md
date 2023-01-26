@@ -38,4 +38,19 @@ A collection of tattoos made on "Kassandra's Enhanced Muscles 100%" (include sca
 3) Select "Properties" / "Local Files"
 4) Click "Verify Integrity of Game Files"
 
+**CREDITS**
+- "Herakles" and additional variations of the Herakles tattoo is original from the game, designed by <a href="http://ubisoft.com">Ubisoft Quebec</a>
+- "Asian Dragon on back" from <a href="http://publicdomainvectors.org">Public Domain Vectors</a> as "Japanese dragon"
+- "Tiger and Dragon on shoulders" from <a href="http://publicdomainvectors.org">Public Domain Vectors</a> as "Tiger running" and "Japanese dragon"
+- "Phoenix" by andipermana1992 at <a href="http://vecteezy.com">vecteezy.com</a>
+- "Japanese Yin Yang Koi Fish" by style graphic at <a href="http://vecteezy.com">vecteezy.com</a>
+- "Inca Bird" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+- "Jumping Tiger" from <a href="http://publicdomainvectors.org">Public Domain Vectors</a> as "Tiger running"
+- "Vine Trail I" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+- "Vine Trail II" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+- "Insect Spire" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+- "Dragon Ink I" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+- "Dragon Ink II" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+- "Fish Ambigram, Ouroboros Pseudo, Impure Ember": "Fish Ambigram" by style graphic at <a href="http://vecteezy.com">vecteezy.com</a>, "Ouroboros Pseudo" from <a href="http://freesvg.org">Free SVG</a>, "Impure Ember" by <a href="http://amisthiosintraining.com">A Misthios In Training</a>
+
 *Thank you to hypermorphic for creating the tools to make AC modding possible. ilikedetectives, my modding partner, for digging up the files and textures. Makacha for the patience to teaching us how start our texture modding journey. BendingBenderRodriguez3000 for initially creating the first muscle mod available for Kassandra which upstarted our journey. Thank you all who inspires us and supports us!*
