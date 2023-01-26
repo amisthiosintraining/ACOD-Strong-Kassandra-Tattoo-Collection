@@ -39,6 +39,7 @@ A collection of tattoos made on "Kassandra's Enhanced Muscles 100%" (include sca
 4) Click "Verify Integrity of Game Files"
 
 **CREDITS**
+<br>For content creators, should you use this re-texture in your work, please credit the appropriate artist(s).
 - "Herakles" and additional variations of the Herakles tattoo is original from the game, designed by <a href="http://ubisoft.com">Ubisoft Quebec</a>
 - "Asian Dragon on back" from <a href="http://publicdomainvectors.org">Public Domain Vectors</a> as "Japanese dragon"
 - "Tiger and Dragon on shoulders" from <a href="http://publicdomainvectors.org">Public Domain Vectors</a> as "Tiger running" and "Japanese dragon"
