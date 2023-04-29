@@ -5,41 +5,42 @@ A collection of tattoos made on "Kassandra's Enhanced Muscles 100%" (include sca
 
 <img src="https://imgur.com/nUXX1t8.png">
 
+Requirements
 ------
-
-**REQUIREMENTS**
 - <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/42">Forger 2.10 Utility</a> by hypermorphic
 - StrongKassTattCollection folder
 - Strong_Kassandra_Tattoo_Collection_v8.forger2
 - NudeLayer
 - Nude_Layer-v1.forger2
 
-**HIGHLY RECOMMENDED**
+### Recommended
 - <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/85">Outfit Customizer</a> by hypermorphic
 
-**STEPS**
+Steps
+------
 1) Go to "code" and "download zip"
 2) Unzip the file to reveal `StrongKassTattCollection` folder and `Strong_Kassandra_Tattoo_Collection_v8.forger2` file and `NudeLayer` folder and `Nude_Layer-v1.forger2` file
 3) Copy and paste the four items `StrongKassTattCollection` folder, `Strong_Kassandra_Tattoo_Collection_v8.forger2`, `NudeLayer` folder and `Nude_Layer-v1.forger2` into "ForgerPatches" folder where ACOdyssey.exe is.
 4) Return to Forger Utility and click "Rescan", and the mod should appear under "Strong Kassandra Tattoo Collection (Nude)" and "Nude Layer"
 5) Select ONE option of the **Strong Kassandra Tattoo Collection (Nude)** and after check the only option under **Nude Layer.** After that you're set. Boot the game and enjoy.
 
-**TROUBLESHOOTING**
-<br>Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files. You may have to do this more than once.
+Troubleshooting
+------
+Should you encounter a problem installing the mod, click on Reset All Forges in Forger and verify your game files. You may have to do this more than once.
 
-**UBISOFT CONNECT**
+#### Ubisoft Connect
 1) Go to "Games"
 2) Under Assassin's Creed Odyssey click on right small arrow
 3) In drop down menu select "Verify Files"
 
-**STEAM**
+#### Steam
 1) Go to "Games", select "View Game Library"
 2) Right Click Assassin's Creed Odyssey
 3) Select "Properties" / "Local Files"
 4) Click "Verify Integrity of Game Files"
 
-**CREDITS**
-<br>For content creators, should you use this re-texture in your work, please credit the appropriate artist(s).
+### Credits
+For content creators, should you use this re-texture in your work, please credit the appropriate artist(s).
 - "Herakles" and additional variations of the Herakles tattoo is original from the game, designed by <a href="http://ubisoft.com">Ubisoft Quebec</a>
 - "Asian Dragon on back" from <a href="http://publicdomainvectors.org">Public Domain Vectors</a> as "Japanese dragon"
 - "Tiger and Dragon on shoulders" from <a href="http://publicdomainvectors.org">Public Domain Vectors</a> as "Tiger running" and "Japanese dragon"
